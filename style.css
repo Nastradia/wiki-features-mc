@@ -1,0 +1,32 @@
+body {
+    font: 1.2rem sans-serif;
+    background-color: #c6c6c6;
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    margin-bottom: 30vh;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    font-weight: lighter;
+    text-decoration: underline;
+}
+
+.definition {
+    margin-left: 60px;
+}
+
+.craft-img {
+    width: 400px;
+    image-rendering: pixelated;
+    box-shadow: 0px 0px 15px 0px;
+    border-radius: 10px; 
+}
+
+#content {
+    width: 1000px;
+}
