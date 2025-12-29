@@ -30,3 +30,13 @@ h3 {
 #content {
     width: 1000px;
 }
+
+table {
+    border-collapse: collapse;
+    margin-block: 20px;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 4px;
+}
